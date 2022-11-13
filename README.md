@@ -1,1 +1,2 @@
 # airline-safety-prediction
+Airline Safety is one of the important feature in an airline system. In this data ,we might classify and cluster the dataset using the appropriate data mining algorithms. We have precised data based on no. of incidents, no. of fatal accidents and no. of fatalities in the time period of 1985-99 and 2000-14.We are going to come to an conclusion that “which is the best airline in the world? “ by using the dataset.
