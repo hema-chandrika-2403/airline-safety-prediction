@@ -1,0 +1,57 @@
+Airlines,incidents_1985-99,fatal_accidents_1985-99,incidents_2000-14,fatal_accidents_2000-14,Safety
+Aer Lingus,2,0,0,0,Yes
+Aeroflot*,76,14,6,1,No
+Aerolineas Argentinas,6,0,1,0,Yes
+Aeromexico*,3,1,5,0,No
+Air Canada,2,0,2,0,Yes
+Air France,14,4,6,2,No
+Air India*,2,1,4,1,No
+Air New Zealand*,3,0,5,1,Yes
+Alaska Airlines*,5,0,5,1,No
+Alitalia,7,2,4,0,No
+All Nippon Airways,3,1,7,0,Yes
+American*,21,5,17,3,No
+Austrian Airlines,1,0,1,0,Yes
+Avianca,5,3,0,0,No
+British Airways*,4,0,6,0,Yes
+Cathay Pacific*,0,0,2,0,Yes
+China Airlines,12,6,2,1,No
+Condor,2,1,0,0,Yes
+COPA,3,1,0,0,Yes
+Delta / Northwest*,24,12,24,2,No
+Egyptair,8,3,4,1,No
+El Al,1,1,1,0,Yes
+Ethiopian Airlines,25,5,5,2,No
+Finnair,1,0,0,0,Yes
+Garuda Indonesia,10,3,4,2,No
+Gulf Air,1,0,3,1,No
+Hawaiian Airlines,0,0,1,0,Yes
+Iberia,4,1,5,0,No
+Japan Airlines,3,1,0,0,No
+Kenya Airways,2,0,2,2,No
+KLM*,7,1,1,0,Yes
+Korean Air,12,5,1,0,No
+LAN Airlines,3,2,0,0,Yes
+Lufthansa*,6,1,3,0,Yes
+Malaysia Airlines,3,1,3,2,No
+Pakistan International,8,3,10,2,No
+Philippine Airlines,7,4,2,1,No
+Qantas*,1,0,5,0,Yes
+Royal Air Maroc,5,3,3,0,Yes
+SAS*,5,0,6,1,No
+Saudi Arabian,7,2,11,0,No
+Singapore Airlines,2,2,2,1,No
+South African,2,1,1,0,No
+Southwest Airlines,1,0,8,0,Yes
+Sri Lankan / AirLanka,2,1,4,0,Yes
+SWISS*,2,1,3,0,No
+TACA,3,1,1,1,Yes
+TAM,8,3,7,2,No
+TAP - Air Portugal,0,0,0,0,Yes
+Thai Airways,8,4,2,1,No
+Turkish Airlines,8,3,8,2,No
+United / Continental*,19,8,14,2,No
+US Airways / America West*,16,7,11,2,No
+Vietnam Airlines,7,3,1,0,No
+Virgin Atlantic,1,0,0,0,Yes
+Xiamen Airlines,9,1,2,0,No
